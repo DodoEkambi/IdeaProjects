@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="654f25db-f8c1-4793-8543-bf86ff08ed7f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WqbNS0E25diYWazD80GjoU8WVw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="ForLoop" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="654f25db-f8c1-4793-8543-bf86ff08ed7f" name="Default Changelist" comment="" />
+      <created>1579880031768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579880031768</updated>
+      <workItem from="1579880033868" duration="3165000" />
+      <workItem from="1579962272960" duration="1557000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1299" height="183" key="GridCell.Tab.0.bottom" timestamp="1580105981661">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1299" height="183" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580105981661" />
+    <state width="1299" height="183" key="GridCell.Tab.0.center" timestamp="1580105981660">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1299" height="183" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580105981660" />
+    <state width="1299" height="183" key="GridCell.Tab.0.left" timestamp="1580105981660">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1299" height="183" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580105981660" />
+    <state width="1299" height="183" key="GridCell.Tab.0.right" timestamp="1580105981660">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1299" height="183" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580105981660" />
+    <state width="1299" height="228" key="GridCell.Tab.1.bottom" timestamp="1579883202830">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1299" height="228" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579883202830" />
+    <state width="1299" height="228" key="GridCell.Tab.1.center" timestamp="1579883202827">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1299" height="228" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1579883202827" />
+    <state width="1299" height="228" key="GridCell.Tab.1.left" timestamp="1579883202827">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1299" height="228" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1579883202827" />
+    <state width="1299" height="228" key="GridCell.Tab.1.right" timestamp="1579883202828">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1299" height="228" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1579883202828" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1579962272312">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1579962272312" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ForLoop$Main.ic" NAME="Main Coverage Results" MODIFIED="1579880703721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
